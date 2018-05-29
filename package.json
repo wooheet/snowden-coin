@@ -1,0 +1,19 @@
+{
+  "name": "Snowdencoin",
+  "version": "1.0.0",
+  "description": "Snowencoin, the awesome coin in NodeJS",
+  "main": "src/server.js",
+  "repository": "https://github.com/wooheet/snowden-coin.git",
+  "author": "wooheet <godjsdleka@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "scripts": {
+    "dev":"nodemon src/server.js"
+  }
+}
