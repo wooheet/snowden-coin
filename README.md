@@ -1,2 +1,2 @@
 # snowden-coin
-Snowdencoin, the most awesome coin mad in NodeJS
+Snowdencoin, the most awesome coin made in NodeJS
