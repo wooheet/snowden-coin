@@ -1,7 +1,7 @@
 {
-  "name": "Snowdencoin",
+  "name": "Tedycoin",
   "version": "1.0.0",
-  "description": "Snowencoin, the awesome coin in NodeJS",
+  "description": "Tedycoin, the awesome coin in NodeJS",
   "main": "src/server.js",
   "repository": "https://github.com/wooheet/snowden-coin.git",
   "author": "wooheet <godjsdleka@gmail.com>",
