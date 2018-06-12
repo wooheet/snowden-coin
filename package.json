@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Tedycoin, the awesome coin in NodeJS",
   "main": "src/server.js",
-  "repository": "https://github.com/wooheet/snowden-coin.git",
+  "repository": "https://github.com/wooheet/tedy-coin.git",
   "author": "wooheet <godjsdleka@gmail.com>",
   "license": "MIT",
   "private": false,
